@@ -62,4 +62,4 @@ Both models are trained over several epochs, and their performance on the test s
 (LSTM typically performs better than the standard RNN due to its ability to retain long-term dependencies.)
 
 ## Models Comparison ⚖️
-![Models Comparison](https://github.com/user-attachments/assets/6e124a5e-7e78-49bdea-f895d6226126)
+![57fa5039-591e-4137-b2e2-0ee1ed1e7403](https://github.com/user-attachments/assets/6e124a5e-7e78-49f1-bdea-f895d6226126)
